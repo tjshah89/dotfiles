@@ -1,0 +1,7 @@
+[user]
+        name = Tejas
+        email = tejas@operatinganalytics.com
+[color]
+        ui = true
+[push]
+	default = matching
